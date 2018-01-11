@@ -9,7 +9,7 @@ $mail->SMTPAuth = true;
 // GMAIL username
 $mail->Username = "gaurav06051997@gmail.com";
 // GMAIL password
-$mail->Password = "gaurav@sharma1997";
+$mail->Password = "PASSWORDURS";
 $mail->SMTPSecure = "tls";  
 // sets GMAIL as the SMTP server
 $mail->Host = "smtp.gmail.com";
